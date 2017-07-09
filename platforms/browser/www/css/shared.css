@@ -1,0 +1,82 @@
+.pink{
+	background-color: rgba(219, 177, 188, 1);
+}
+.lightPurple{
+	background-color: rgba(211, 196, 227, 1);
+}
+.darkPurple{
+	background-color: rgba(143, 149, 211, 1);
+}
+.blue{
+	background-color: rgba(137, 218, 255, 1);
+}
+.darkBrown{
+	background-color: rgba(88, 80, 74, 1);
+}
+.redish{
+	background-color: #DB859C;
+}
+.mainMenuItem{
+	width: 50%;
+	height: 25vh;
+	float: left;
+}
+.menuItem1{
+	background: url(../icons/eco/analytics.png) no-repeat 50% 25%;
+	background-size: 50px 50px;
+	background-color: #DB859C;
+	background-color: rgba(143, 149, 211, 1);
+}
+
+.menuItem2{
+	background: url(../icons/eco/coin-1.png) no-repeat 50% 25%;
+	background-size: 50px 50px;
+	background-color: rgba(219, 177, 188, 1);
+	
+}
+
+.menuItem3{
+	background: url(../icons/eco/analytics-4.png) no-repeat 50% 25%;
+	background-size: 50px 50px;
+	background-color: #BFB48F;
+}
+
+.menuItem4{
+	background: url(../icons/eco/target.png) no-repeat 50% 25%;
+	background-size: 50px 50px;
+	background-color: #413F54;
+}
+
+
+.menuItem5{
+	background: url(../icons/eco/credit-card.png) no-repeat 50% 25%;
+	background-size: 50px 50px;
+	background-color: #4A7B9D;
+}
+.menuItem6{
+	background: url(../icons/eco/settings-1.png) no-repeat 50% 25%;
+	background-size: 50px 50px;
+	background-color: #9AA899;
+}
+
+.mainMenuContainer{
+	height: 80vh;
+}
+
+
+
+
+.menuText{
+	font-size: 22px;
+	color: #fff;
+	font-weight: bold;
+	margin-top:80px;
+	text-align: center;
+}
+
+.logoContainer{
+	height: 25vh;
+		background: url(../img/logo.png) no-repeat 50% 25%;
+			background-color: #4A7B9D;
+
+}
